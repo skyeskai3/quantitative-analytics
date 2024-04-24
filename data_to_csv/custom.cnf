@@ -1,0 +1,4 @@
+[mysqld]
+sql_mode = ""
+secure-file-priv = ""
+default-time-zone='America/New_York'
