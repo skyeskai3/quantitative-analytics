@@ -3,7 +3,7 @@ This account began with $200,000. The following images show the trading history 
 
 The following images were created utilizing Quantstats. You can find this project outlined in the quanstats_tearsheets folder in this repository. 
 
-![alt text](individual_pngs/TearsheetEx1.png)
-![alt text](individual_pngs/TearsheetEx2.png)
-![alt text](individual_pngs/TearsheetEx3.png)
-![alt text](individual_pngs/TearsheetEx4.png)
+![alt text](acct1_images/TearsheetEx1.png)
+![alt text](acct1_images/TearsheetEx2.png)
+![alt text](acct1_images/TearsheetEx3.png)
+![alt text](acct1_images/TearsheetEx4.png)
