@@ -1,0 +1,10 @@
+{
+    "pair": "EURUSD",
+    "db": {
+      "host": "host",
+      "username": "test",
+      "password": "test",
+      "port": "3306",
+      "database": "database"
+    }
+  }
